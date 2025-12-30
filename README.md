@@ -28,8 +28,8 @@ PORT=5000
 JWT_SECRET=your_jwt_secret_key
 GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
-GOOGLE_CALLBACK_URL=http://localhost:5000/api/auth/google/callback
-FRONTEND_URL=http://localhost:3000
+GOOGLE_CALLBACK_URL='http://localhost:5000/api/auth/google/callback'
+FRONTEND_URL='http://localhost:3000'
 
 Tech Stack
 Frontend
